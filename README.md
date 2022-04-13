@@ -1,7 +1,7 @@
 ## 🚀 이진웅 
 사소한 디테일까지도 챙길 수 있기 위해 부지런히 공부하는 프론트엔드 개발자 🔥
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=woongstaa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woongstaa&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=woongstaa&show_icons=true&hide=stars&theme=gruvbox&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
