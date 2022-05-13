@@ -20,5 +20,5 @@
 <br>
 
 ## ✉️ Contacts
-<a href="mailto:jinung91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://velog.io/@woongstaa" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> <a href="https://ring-lord-16b.notion.site/Front-end-Developer-45e26c1f8f6c4b7799a1859abb0acef7" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="mailto:jinung91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://velog.io/@woongstaa" target="_blank"><img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> <a href="https://ring-lord-16b.notion.site/Front-end-Developer-40e59bc828ab46a2826e33a9f4a71516" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
