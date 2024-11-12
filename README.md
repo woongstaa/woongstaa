@@ -3,8 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woongstaa&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=woongstaa&show_icons=true&hide=stars&theme=gruvbox&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ## ⌨️ Stack 
